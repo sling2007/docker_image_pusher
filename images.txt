@@ -1,5 +1,8 @@
-postgres:15-alpine
-semitechnologies/weaviate:1.19.0
+langgenius/dify-sandbox:0.2.10
+ubuntu/squid:latest
+
+#postgres:15-alpine
+#semitechnologies/weaviate:1.19.0
 
 
 #nginx
