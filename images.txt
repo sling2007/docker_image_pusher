@@ -1,5 +1,5 @@
-langgenius/dify-api:0.14.2
-langgenius/dify-web:0.14.2
+langgenius/dify-api:0.14.1
+langgenius/dify-web:0.14.1
 
 #couchbase/server:latest
 
