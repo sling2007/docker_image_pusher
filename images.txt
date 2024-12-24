@@ -1,4 +1,7 @@
-couchbase/server:latest
+langgenius/dify-api:0.14.2
+langgenius/dify-web:0.14.2
+
+#couchbase/server:latest
 
 #certbot/certbot
 #pingcap/tidb:v8.4.0
