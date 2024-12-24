@@ -1,5 +1,18 @@
-langgenius/dify-sandbox:0.2.10
-ubuntu/squid:latest
+centos:7.9.2009
+nginx:latest
+zlmediakit/zlmediakit:master
+rabbitmq:management
+flink:latest
+mysql:8.0
+mysql:5.7.44
+redis:latest
+quay.io/minio/minio:latest
+nacos/nacos-server:v2.1.0-slim
+registry.cn-hangzhou.aliyuncs.com/zhuyijun/oracle:19c
+
+
+#langgenius/dify-sandbox:0.2.10
+#ubuntu/squid:latest
 
 #postgres:15-alpine
 #semitechnologies/weaviate:1.19.0
