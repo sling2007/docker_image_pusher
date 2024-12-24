@@ -1,5 +1,5 @@
-dm8_single:dm8_20241022_rev244896_x86_rh6_64
 keking/kkfileview:latest
+dm8_single:dm8_20241022_rev244896_x86_rh6_64
 
 
 #centos:7.9.2009
@@ -14,13 +14,11 @@ keking/kkfileview:latest
 #nacos/nacos-server:v2.1.0-slim
 #registry.cn-hangzhou.aliyuncs.com/zhuyijun/oracle:19c
 
-
 #langgenius/dify-sandbox:0.2.10
 #ubuntu/squid:latest
 
 #postgres:15-alpine
 #semitechnologies/weaviate:1.19.0
-
 
 #nginx
 #支持私库
