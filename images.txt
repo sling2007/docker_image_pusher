@@ -1,14 +1,18 @@
-centos:7.9.2009
-nginx:latest
-zlmediakit/zlmediakit:master
-rabbitmq:management
-flink:latest
-mysql:8.0
-mysql:5.7.44
-redis:latest
-quay.io/minio/minio:latest
-nacos/nacos-server:v2.1.0-slim
-registry.cn-hangzhou.aliyuncs.com/zhuyijun/oracle:19c
+dm8_single:dm8_20241022_rev244896_x86_rh6_64
+keking/kkfileview:latest
+
+
+#centos:7.9.2009
+#nginx:latest
+#zlmediakit/zlmediakit:master
+#rabbitmq:management
+#flink:latest
+#mysql:8.0
+#mysql:5.7.44
+#redis:latest
+#quay.io/minio/minio:latest
+#nacos/nacos-server:v2.1.0-slim
+#registry.cn-hangzhou.aliyuncs.com/zhuyijun/oracle:19c
 
 
 #langgenius/dify-sandbox:0.2.10
