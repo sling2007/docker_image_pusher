@@ -1,4 +1,4 @@
-couchbase/server:latest AS stage_base
+couchbase/server:latest
 
 #certbot/certbot
 #pingcap/tidb:v8.4.0
