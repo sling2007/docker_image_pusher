@@ -1,4 +1,6 @@
-zookeeper:3.7.1
+openjdk:17-jdk-slim
+
+#zookeeper:3.7.1
 
 #langgenius/dify-api:0.14.1
 #langgenius/dify-web:0.14.1
