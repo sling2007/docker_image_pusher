@@ -1,4 +1,7 @@
-openjdk:17-jdk-slim
+openjdk:8-jdk-alpine
+openjdk:8-jdk
+
+#openjdk:17-jdk-slim
 
 #zookeeper:3.7.1
 
